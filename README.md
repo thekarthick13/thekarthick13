@@ -1,6 +1,6 @@
 - Hi, I’m G. Karthick.
 - Student at Motilal Nehru National Institute of Technology, Allahabad.
-- Did my schooling in Indian School Salalah.
+- Did my schooling at Indian School Salalah.
 - I’m interested in software dev, DSA and website dev
 - I’m currently learning application development
 -
